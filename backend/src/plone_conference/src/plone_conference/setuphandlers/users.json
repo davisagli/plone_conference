@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "david@glicksoftware.com",
+      "properties": {
+        "fullname": "Plone Conference",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plone-conference"
+    }
+  ],
+    "team": [
+  ]
+}
